@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0F1A"/>
+      <stop offset="100%" stop-color="#131A2E"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C5CFF">
+        <animate attributeName="stop-color" values="#7C5CFF;#00D4FF;#FF4FD8;#7C5CFF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00D4FF">
+        <animate attributeName="stop-color" values="#00D4FF;#FF4FD8;#7C5CFF;#00D4FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+
+  <circle cx="980" cy="70" r="220" fill="url(#glow1)">
+    <animate attributeName="cy" values="70;110;70" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1120" cy="280" r="180" fill="url(#glow2)">
+    <animate attributeName="cx" values="1120;1060;1120" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Play-box logo mark -->
+  <g transform="translate(80 92)">
+    <rect width="136" height="136" rx="32" fill="none" stroke="url(#brand)" stroke-width="6"/>
+    <path d="M52 38 L104 68 L52 98 Z" fill="url(#brand)">
+      <animateTransform attributeName="transform" type="scale" values="1;1.06;1" dur="2.4s" additive="sum" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <text x="260" y="150" font-size="68" font-weight="800" fill="#FFFFFF" letter-spacing="-1">Win<tspan fill="url(#brand)">Play</tspan>Box</text>
+  <text x="262" y="196" font-size="24" fill="#AEB7D0">Web · Mobile · Design Systems · Automation</text>
+  <text x="262" y="236" font-size="18" fill="#6F7A99">Mumbai, India  ·  winplaybox.in</text>
+
+  <!-- Floating chips -->
+  <g font-size="15" font-weight="600">
+    <g transform="translate(820 96)">
+      <rect width="150" height="36" rx="18" fill="#1C2440" stroke="#7C5CFF" stroke-opacity="0.6"/>
+      <text x="75" y="23" text-anchor="middle" fill="#C9BFFF">React · TypeScript</text>
+      <animateTransform attributeName="transform" type="translate" values="820 96;820 88;820 96" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(990 150)">
+      <rect width="130" height="36" rx="18" fill="#1C2440" stroke="#00D4FF" stroke-opacity="0.6"/>
+      <text x="65" y="23" text-anchor="middle" fill="#A8EEFF">React Native</text>
+      <animateTransform attributeName="transform" type="translate" values="990 150;990 160;990 150" dur="5s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(860 204)">
+      <rect width="110" height="36" rx="18" fill="#1C2440" stroke="#FF4FD8" stroke-opacity="0.6"/>
+      <text x="55" y="23" text-anchor="middle" fill="#FFC2F2">Python · AI</text>
+      <animateTransform attributeName="transform" type="translate" values="860 204;860 196;860 204" dur="4.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
