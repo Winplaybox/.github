@@ -7,7 +7,7 @@ description: >-
   line, "what should I say", "write my next video", or is about to record
   and does not have the first fifteen seconds yet.
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-script
 

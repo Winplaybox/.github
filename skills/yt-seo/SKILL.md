@@ -5,7 +5,7 @@ description: >-
   aimed at the query a real person types. Use for "write my description",
   "tags", "SEO", "help this video get found", "nobody is finding this".
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-seo
 

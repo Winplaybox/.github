@@ -3,7 +3,7 @@ name: grill-me
 description: Grill the user relentlessly about a plan, design, or idea to find every loophole. Use when the user says grill me, stress-test this, or wants a plan challenged.
 ---
 
-<!-- Adapted from mattpocock/skills (grill-me + grilling), MIT License, Copyright (c) 2026 Matt Pocock -->
+<!-- Adapted from mattpocock/skills (grill-me + grilling), MIT License, Copyright (c) 2026 WinPlayBox
 
 Interview the user relentlessly until you reach a shared understanding. Map this as a **design tree**: every decision branches into the decisions that hang off it.
 

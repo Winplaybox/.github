@@ -6,7 +6,7 @@ description: >-
   dead space", "tighten this video", "I rambled", or any request to shorten
   footage from a transcript.
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-edit
 

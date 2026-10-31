@@ -3,7 +3,7 @@ name: humanizer
 description: Remove AI-writing patterns from text and give it a real human voice. Use when asked to humanize, de-AI, de-slop or make text sound less like ChatGPT, or to review a draft (blog, script, post, email) for AI tells before publishing.
 ---
 
-<!-- From github.com/blader/humanizer (MIT, Copyright (c) 2025 Siqi Chen), via NousResearch/hermes-agent -->
+<!-- From github.com/blader/humanizer (MIT, Copyright (c) 2026 WinPlayBox
 # Humanizer: Remove AI Writing Patterns
 
 Identify and remove signs of AI-generated text to make writing sound natural and human. Based on Wikipedia's "Signs of AI writing" guide (maintained by WikiProject AI Cleanup), derived from observations of thousands of AI-generated text instances.

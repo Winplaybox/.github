@@ -5,7 +5,7 @@ description: >-
   fifteen seconds, and what to fix first. Use for "audit my channel", "why
   isn't my channel growing", "review my videos", or a pasted channel URL.
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-audit
 

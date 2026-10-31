@@ -3,7 +3,7 @@ name: diagnosing-bugs
 description: Disciplined diagnosis loop for hard bugs and performance regressions. Use when the user says diagnose or debug this, or reports something broken, throwing, failing, or slow.
 ---
 
-<!-- Adapted from mattpocock/skills (diagnosing-bugs), MIT License, Copyright (c) 2026 Matt Pocock -->
+<!-- Adapted from mattpocock/skills (diagnosing-bugs), MIT License, Copyright (c) 2026 WinPlayBox
 
 # Diagnosing Bugs
 

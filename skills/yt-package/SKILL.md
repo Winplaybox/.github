@@ -6,7 +6,7 @@ description: >-
   "title ideas", "what should I call this", "thumbnail text", "my CTR is
   bad", packaging, or any request to rename or repackage an existing video.
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-package
 

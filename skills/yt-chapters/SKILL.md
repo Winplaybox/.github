@@ -5,7 +5,7 @@ description: >-
   rules so they actually render. Use for "add chapters", "timestamps",
   "break this video into sections".
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-chapters
 

@@ -5,7 +5,7 @@ description: >-
   transcript to pick self-contained moments. Use for "cut this into shorts",
   "clip this", "repurpose this video", "what should I clip".
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-shorts
 

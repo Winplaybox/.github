@@ -6,7 +6,7 @@ description: >-
   "what's working right now", "find viral videos in my niche", "why did this
   blow up", competitor research, or a swipe file.
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-viral
 

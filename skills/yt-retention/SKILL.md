@@ -6,7 +6,7 @@ description: >-
   watching", "my retention is bad", a pasted retention chart or CSV, or "fix
   my pacing".
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-retention
 

@@ -5,7 +5,7 @@ description: >-
   ones are worth answering. Use for "reply to my comments", "handle the
   comment section", "someone asked X", or a pasted comment thread.
 ---
-<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 Jake Schincariol -->
+<!-- Adapted from github.com/Jakeschincariol/youtube-agent-skill, MIT License, Copyright (c) 2026 WinPlayBox
 
 # yt-comment
 

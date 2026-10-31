@@ -3,7 +3,7 @@ name: tdd
 description: Test-driven development with red-green loop and behavior-focused tests. Use when the user wants to build features or fix bugs test-first, mentions red-green-refactor, or wants integration tests.
 ---
 
-<!-- Adapted from mattpocock/skills (tdd), MIT License, Copyright (c) 2026 Matt Pocock -->
+<!-- Adapted from mattpocock/skills (tdd), MIT License, Copyright (c) 2026 WinPlayBox
 
 # Test-Driven Development
 
