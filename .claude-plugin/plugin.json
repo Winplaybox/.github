@@ -1,0 +1,9 @@
+{
+  "name": "winplaybox-skills",
+  "description": "WinPlayBox's vetted agent skills: YouTube channel ops, UI/animation design engineering, debugging, TDD, plan grilling and de-AI writing.",
+  "version": "1.0.0",
+  "author": { "name": "WinPlayBox", "url": "https://winplaybox.in" },
+  "homepage": "https://github.com/Winplaybox/.github",
+  "repository": "https://github.com/Winplaybox/.github",
+  "keywords": ["skills", "youtube", "ui", "animation", "expo", "react", "tdd", "debugging"]
+}
