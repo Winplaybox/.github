@@ -2,11 +2,14 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "winplaybox",
   "description": "WinPlayBox agent skills",
-  "owner": { "name": "WinPlayBox", "url": "https://winplaybox.in" },
+  "owner": {
+    "name": "WinPlayBox",
+    "url": "https://winplaybox.in"
+  },
   "plugins": [
     {
       "name": "winplaybox-skills",
-      "description": "23 vetted skills: YouTube channel ops, UI/animation design engineering, debugging, TDD, plan grilling and de-AI writing.",
+      "description": "44 vetted skills: Engineering & architecture (Matt Pocock), UI & animation (Emil Kowalski), scientific debugging (Hermes), security auditing (secure-skills), and YouTube channel operations.",
       "source": "./",
       "category": "productivity",
       "homepage": "https://github.com/Winplaybox/.github"
